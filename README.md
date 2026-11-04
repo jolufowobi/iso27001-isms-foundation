@@ -127,7 +127,7 @@ The board report focused on decisions, owners and dates, because a framework onl
 
 ## 9. 📎 Scope
 
-The documents in this repository have been anonymized. Approval statuses reflect the documented governance process; implementation, control testing and certification are later phases.
+Supporting documents are available on request. Approval statuses reflect the documented governance process; implementation, control testing and certification are later phases.
 
 ---
 
