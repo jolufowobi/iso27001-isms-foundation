@@ -138,5 +138,7 @@ The documents in this repository have been anonymized. Approval statuses reflect
 ---
 
 **Project:** ISO/IEC 27001:2022 ISMS Foundation | Health-Tech Organization
+
 **Role:** Cybersecurity GRC Consultant
+
 **Domain:** Information Security Governance · GRC · Privacy
